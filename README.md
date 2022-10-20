@@ -1,13 +1,3 @@
-## Area Calc
-
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 You are painting a wall. The instructions on the paint can says that **1 can of paint can cover 5 square meters** of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy.
@@ -21,8 +11,6 @@ number of cans = (2 ✖️ 4) ÷ 5
                          = 1.6
 
 But because you can't buy 0.6 of a can of paint, the **result should be rounded up** to **2** cans. 
-
-IMPORTANT: Notice the name of the function and parameters must match those on line 13 for the code to work.
 
 # Example Input
 
@@ -42,17 +30,7 @@ You'll need 6 cans of paint.
 
    
 
-# Hint
 
-**1. To round up a number**: 
-
-[https://stackoverflow.com/questions/2356501/how-do-you-round-up-a-number-in-python](https://stackoverflow.com/questions/2356501/how-do-you-round-up-a-number-in-python)
-
-2. Make sure you name your function/parameters the same as when it's called on the last line of code. 
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
 
 [https://repl.it/@appbrewery/day-8-1-test-your-code](https://repl.it/@appbrewery/day-8-1-test-your-code)
 
